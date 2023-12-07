@@ -1,0 +1,6 @@
+apiVersion: scheduling.volcano.sh/v1beta1
+kind: Queue
+metadata:
+  name: pydata-torchx-demo
+spec:
+  weight: 1

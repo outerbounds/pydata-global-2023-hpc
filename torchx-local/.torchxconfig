@@ -1,0 +1,3 @@
+[kubernetes]
+queue=pydata-torchx-demo
+image_repo=eddieob/torchx-pydata-demo
